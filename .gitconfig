@@ -1,0 +1,13 @@
+[user]
+	name = Bill Fern
+	email = bfern@nerdery.com
+[alias]
+    co = commit
+    fa = fetch --all
+    fu = fetch upstream
+    pr = pull --rebase
+    pru = pull --rebase upstream
+    prud = pull --rebase upstream develop
+    s = status
+[push]
+	default = simple
