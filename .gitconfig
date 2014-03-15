@@ -9,5 +9,3 @@
     pru = pull --rebase upstream
     prud = pull --rebase upstream develop
     s = status
-[push]
-	default = simple

@@ -10,6 +10,6 @@ alias gs="git status"
 shopt -s dotglob
 
 # SCRIPT LOAD ORDER
-source "/Users/bfern/.git-completion.sh"
-source "/Users/bfern/.git-prompt.sh"
-source "/Users/bfern/.ps1.sh"
+source "/home/bfern/.git-completion.sh"
+source "/home/bfern/.git-prompt.sh"
+source "/home/bfern/.ps1.sh"
