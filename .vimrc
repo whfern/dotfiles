@@ -4,16 +4,16 @@ filetype off
 "==== VUNDLE ====
 set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
-Bundle 'gmarik/vundle'
-Bundle 'kien/ctrlp.vim'
-Bundle 'tpope/vim-repeat'
-Bundle 'tpope/vim-surround'
-Bundle 'tpope/vim-fugitive'
-Bundle 'majutsushi/tagbar'
-Bundle 'tpope/vim-sensible'
 Bundle 'derekwyatt/vim-scala'
+Bundle 'gmarik/vundle'
 Bundle 'gre/play2vim'
+Bundle 'kien/ctrlp.vim'
+Bundle 'majutsushi/tagbar'
 Bundle 'othree/html5.vim'
+Bundle 'tpope/vim-fugitive'
+Bundle 'tpope/vim-repeat'
+Bundle 'tpope/vim-sensible'
+Bundle 'tpope/vim-surround'
 
 "==== CTRLP ====
 set wildignore+=*/tmp/*,*.swp,*.zip,*.jpg,*.png,*.gif,*.rar,*.lock
